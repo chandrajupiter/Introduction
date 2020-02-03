@@ -1,6 +1,7 @@
 Data untuk Pemrograman Web
 - HTML
-- CSS
 - PHP
-- JAVASCRIPT
+- Javascript
 - Framework all design website 
+Design Programming
+- Css

@@ -1,0 +1,9 @@
+ELEMENT <p>
+<style>
+p {
+   text-align: center;
+   font-size: 16px;
+   color: pink;
+  
+}
+</style>
